@@ -1,2 +1,2 @@
-# sbonelo.github.io
+# Peep
 MVP for GIC
